@@ -1,0 +1,12 @@
+# Virtual environment
+chatbot_env/
+venv/
+
+# Python cache
+__pycache__/
+
+# Streamlit-specific files
+.streamlit/
+
+# IDE-specific files
+.vscode/

@@ -1,0 +1,46 @@
+{
+    "intents": [
+        {
+            "tag": "greeting",
+            "patterns": ["Hi", "Hello", "Hey there", "Good day", "Is anyone there?"],
+            "responses": ["Hello, farmer! How can I assist you today?", "Hi there! Need help with farming tools?", "Good day! What farming equipment are you looking for?"],
+            "context": [""]
+        },
+        {
+            "tag": "goodbye",
+            "patterns": ["Bye", "See you later", "Goodbye", "Talk to you soon"],
+            "responses": ["Goodbye! Happy farming!", "See you! Keep your crops healthy!", "Take care! Let me know if you need more farming tips."],
+            "context": [""]
+        },
+        {
+            "tag": "thanks",
+            "patterns": ["Thanks", "Thank you", "That was helpful", "Appreciate it"],
+            "responses": ["You're welcome! Wishing you a great harvest!", "Happy to help!"],
+            "context": [""]
+        },
+        {
+            "tag": "tractor_use",
+            "patterns": ["What is a tractor used for?", "How do I use a tractor?", "Tractor benefits"],
+            "responses": ["A tractor is used for plowing, tilling, and pulling heavy loads in farming. It is essential for large-scale farming."],
+            "context": [""]
+        },
+        {
+            "tag": "irrigation_methods",
+            "patterns": ["What are the different irrigation methods?", "How do I water my crops?", "Best way to irrigate fields?"],
+            "responses": ["Common irrigation methods include drip irrigation, sprinkler systems, furrow irrigation, and flood irrigation. The best method depends on the crop and water availability."],
+            "context": [""]
+        },
+        {
+            "tag": "fertilizer_use",
+            "patterns": ["What fertilizer should I use?", "Best fertilizer for crops?", "How do I fertilize my field?"],
+            "responses": ["The best fertilizer depends on your crop. Organic fertilizers like manure and compost improve soil health, while chemical fertilizers provide quick nutrients."],
+            "context": [""]
+        },
+        {
+            "tag": "harvesting_tools",
+            "patterns": ["Which tools are used for harvesting?", "Best equipment for harvesting?", "How do I harvest crops?"],
+            "responses": ["Common harvesting tools include sickles, combine harvesters, reapers, and threshers. The choice depends on the type and scale of farming."],
+            "context": [""]
+        }
+    ]
+}
