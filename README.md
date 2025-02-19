@@ -50,9 +50,7 @@ To deploy on **Streamlit Cloud**:
  ├── 📄 requirements.txt   # Dependencies
  ├── 📄 README.md          # Project description
  ├── 📄 .gitignore         # Files to ignore in Git
-```
 
-```
 
 ```
 
