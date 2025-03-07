@@ -10,7 +10,8 @@ This is a **Streamlit-based Farming Helper Chatbot** that provides guidance on f
 - 🔄 Keeps track of conversation history
 - 🌍 Deployable on **Streamlit Cloud**
 
-## If You Want to Work on this Project Follow the below Steps
+## If you want to work on this project follow the below Steps
+
 ##Installation
 ### 1. Clone the Repository
 ```bash
